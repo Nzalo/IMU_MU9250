@@ -12,7 +12,7 @@ In order to successfully run this code, you will need:
 * 1 Invensense MU6050 or any breakout board including it.
 * 1 USB cable and some wires for connecting the IMU, the Arduino board and the computer.
 * Arduino IDE.
-* Processing IDE.
+* [Processing IDE](https://processing.org/download/?processing).
 
 ## Installation & Configuration
 <!--Step-by-step instructions, with proper punctuation, on how to install and configure the project.-->
