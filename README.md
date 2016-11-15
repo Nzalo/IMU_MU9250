@@ -8,11 +8,11 @@ This repo was created for learning purposes regarding how to use an IMU, particu
 <!--A list of all system requirements and required third-party components.-->
 In order to successfully run this code, you will need:
 
-* 1 Arduino Uno board (for other boards you will need to check the assigned ports)
+* 1 Arduino Uno board (for other boards you will need to check the assigned ports).
 * 1 Invensense MU6050 or any breakout board including it.
 * 1 USB cable and some wires for connecting the IMU, the Arduino board and the computer.
-* Arduino IDE
-* Processing IDE
+* Arduino IDE.
+* Processing IDE.
 
 ## Installation & Configuration
 <!--Step-by-step instructions, with proper punctuation, on how to install and configure the project.-->
@@ -33,13 +33,12 @@ In order to successfully run this code, you will need:
 <!--Links to relevant documentation repositories, internal and external.-->
 * [Arduino MPU 6050 by Arvind Sanjeev](https://diyhacking.com/arduino-mpu-6050-imu-sensor-tutorial/).
 * [Sparkfun's MPU-9250 hookup guide](https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide#library-and-example-code).
-* 
 
 ## License
 <!--The license under which the software will be released. Open-source projects MUST include the MIT License, and closed-source projects MUST include a proprietary license to be discussed with the Documentation team.-->
-These examples and codes were not developed by my person. The libraries and code used here are open sourced and belong to [Kris Winer](https://github.com/kriswiner)(MPU9250BasicAHRS.ino),[Brent Wilkins](https://github.com/BrentWilkins)(MPU9250BasicAHRS.ino) , [Karsten Schmidt](https://github.com/postspectacular/)(Toxi library), [Jeff Rowberg](https://github.com/jrowberg) (i2cdevlib and MPU6050 libraries).
+These examples and codes were not developed by my person. The libraries and code used here are open sourced and belong to [Kris Winer](https://github.com/kriswiner)(MPU9250BasicAHRS.ino),[Brent Wilkins](https://github.com/BrentWilkins)(MPU9250BasicAHRS.ino) , [Karsten Schmidt](https://github.com/postspectacular/)(Toxi library) and [Jeff Rowberg](https://github.com/jrowberg) (i2cdevlib and MPU6050 libraries).
 
 This README.md file written by myself is also Open Source. You may use it, forward it or modify it as you want.
 
 ## Contact
-Gonzalo Parra-Alvarez. Email me [here.](mailto:gonzalo.pa@protonmail.com)
+Gonzalo Parra-Alvarez. Email me [here.](mailto:gonzalo.pa@protonmail.com).
