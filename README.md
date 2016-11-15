@@ -4,5 +4,7 @@ This repo was created for learning purposes regarding how to use an IMU, particu
 
 More info to come. 
 
+
+
 Gonzalo Parra-Alvarez
 [(Email me here.)](mailto:gonzalo.pa@protonmail.com)

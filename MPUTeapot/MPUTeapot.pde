@@ -68,8 +68,8 @@ void setup() {
     println(Serial.list());
 
     // get the first available port (use EITHER this OR the specific port code below)
-    String portName = "/dev/ttyUSB1";
-    
+    //String portName = "/dev/ttyUSB1";
+    String portName = "/dev/tty.usbmodem1421";
     // get a specific serial port (use EITHER this OR the first-available code above)
     //String portName = "COM4";
     
